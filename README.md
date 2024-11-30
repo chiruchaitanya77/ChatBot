@@ -1,6 +1,6 @@
-Chatbot for FAQs
+Simple FAQs Chatbot
 
- As part of my internship at @CodeAlpha,I created a simple chatbot using TensorFlow and Python, By the use of deep learning to automate conversational responses. My goal was to build a model that understands and generates relevant replies to user inputs based on a predefined set of conversational pairs.
+This is a simple chatbot created using TensorFlow and Python, By the use of deep learning to automate conversational responses. My goal was to build a model that understands and generates relevant replies to user inputs based on a predefined set of conversational pairs.
 I tackled the challenge of developing an intelligent chatbot that can provide contextually appropriate responses. Traditional rule-based chatbots often struggle to handle a wide range of inputs effectively. By leveraging deep learning, I aimed to enhance the chatbot's ability to understand and respond to user’s queries more accurately and naturally.
 I used TensorFlow, which is a widely-used deep learning library, along with Python to develop the chatbot. Other essential tools that included are `LabelEncoder` from the ‘ sklearn.preprocessing ’ module used for label encoding and the ‘ tf.keras.preprocessing.text.Tokenizer ‘ for text tokenisation.
 1. Data Preparation :
